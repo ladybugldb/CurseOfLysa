@@ -1,0 +1,7 @@
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+
+In exchange for food, shelter, information, and assistance against Strahd, Ismark asks the players to escort his sister Ireena—a target of Strahd’s interest—to St. Andral’s Church in the walled town of Vallaki to the west, where he believes she will be safe. Ismark is soon approached by "Mad Mary," a villager whose daughter, Gertruda, has recently left the village in search of her betrothed.
+
+If the players agree to help him, Ismark escorts them to the Burgomaster's Mansion. There, Ireena insists on a burial for her father before departing, which can be performed at dawn with the aid of the village’s priest, Father Donavich. As the players rest in the mansion, they receive a shared dream from the Vistani seer Madam Eva, who warns them that they are in grave danger and invites them to journey to her tent at Tser Pool Encampment to learn their fates.
+
+Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
