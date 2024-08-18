@@ -140,8 +140,28 @@ Mary then bursts into tears.
 Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
 
 >**Hook: Missing villagers**
-> last village to go missing is Yesper Tyminski
-{.green}
+> last village to go missing is Yesper Tyminski.
+> 
+>Clues: 
+>
+>1) Yespers house: Struggle, broken candlestick with blood, broken necklace w/symbol of the morning lord.
+>
+>2) Wife of sick guy saw lage robes figure draging a figure to the north
+>
+>3) No funerals bur fresh graves
+>
+>4) Father Donavich has injury ... gardening tools but bad landscape
+<!--{blockquote:.green}-->
+
+>**Hook: Sickness **
+>Stradh Zombies in the well
+> 
+>Clues: 
+>
+>1) most drink wine/beer but sick man drak water.
+>
+>2) duaghter said father drank well water  
+<!--{blockquote:.green}-->
 
 >**Lore -- Where's Gertruda?**
 >
@@ -579,12 +599,13 @@ With the burial concluded, Strahd’s bats take off into the air, vanishing up i
 
 ### Return to the Mansion
 When the players return to the burgomaster’s manor following the burial, [[Non-Player Characters#Ireena Kolyana|Ireena]] and [[Non-Player Characters#Ismark Kolyanovich|Ismark]] prepare a light breakfast while speaking with the players about their next steps. The conversation largely proceeds as follows unless redirected by the players:
-
-* Ismark confirms that St. Andral's Church in Vallaki is Ireena's destination.
-* Ireena asks the players about their destination or plans in Vallaki, as well as whether they expect to make any stops along the road there.
-* If the players have mentioned their intent to visit Tser Pool, Ismark notes that the journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
-* If the players haven't mentioned their intent to visit Tser Pool, Ismark notes that the Svalich Road can be dangerous, and advises the players to set a waypoint to rest and recuperate along the way. (Better to be cautious, he says, than to rush into a more taxing journey than necessary.) He suggests Tser Pool as a potential waypoint.
-* In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given the reputation of the Vistani leader, Madam Eva.)
+>
+>* Ismark confirms that St. Andral's Church in Vallaki is Ireena's destination.
+>* Ireena asks the players about their destination or plans in Vallaki, as well as whether they expect to make any stops along the road there.
+>* If the players have mentioned their intent to visit Tser Pool, Ismark notes that the journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
+>* If the players haven't mentioned their intent to visit Tser Pool, Ismark notes that the Svalich Road can be dangerous, and advises the players to set a waypoint to rest and recuperate along the way. (Better to be cautious, he says, than to rush into a more taxing journey than necessary.) He suggests Tser Pool as a potential waypoint.
+>* In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given the reputation of the Vistani leader, Madam Eva.)
+<!--{blockquote:.yellow}-->
 
 Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 
@@ -628,7 +649,7 @@ Ireena gladly returns to the mansion with the players, or returns on her own sho
 
 When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
 
-**_Milestone_**. Burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
+>**_Milestone_**. Burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.{.red}
 
 > [!info]+ **Ireena Joins the Party**
 >
@@ -646,7 +667,7 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 > - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
 >
 > None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
-
+{.purple}
 ## B5f. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
@@ -672,7 +693,7 @@ During the players’ conversation with Bildrath, Parriwimple enters the room ca
 >
 > ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
 >
-> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
+> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir. {.purple}
 
 If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 
